@@ -7,3 +7,5 @@ assert 42 == 42
 assert 'syspro' == 'syspro'
 
 assert True == True
+
+assert 222 == 111 * 2
