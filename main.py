@@ -9,3 +9,5 @@ assert 'syspro' == 'syspro'
 assert True == True
 
 assert 222 == 111 * 2
+
+assert 100 == 77 + 33
