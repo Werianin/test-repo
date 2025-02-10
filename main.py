@@ -15,3 +15,5 @@ assert 100 == 77 + 33
 assert 2025 == (20+25)**2
 
 assert 3353 == 3000 + 300 + 50 + 3
+
+assert 'funny' == 'not funny'
