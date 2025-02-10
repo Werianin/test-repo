@@ -11,3 +11,5 @@ assert True == True
 assert 222 == 111 * 2
 
 assert 100 == 77 + 33
+
+assert 2025 == (20+25)**2
