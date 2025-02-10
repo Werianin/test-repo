@@ -5,3 +5,5 @@ assert 3 + 7 == 10
 assert 42 == 42
 
 assert 'syspro' == 'syspro'
+
+assert True == True
